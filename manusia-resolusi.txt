@@ -1,6 +1,8 @@
 MANUSIA RESOLUSI
 - Konsisten untuk belajar hal yang disukai
-- interview
+-angular
+-react
+-laravel
 - aktif di forum yang dapat meningkatkan kemampuan dan pengetahuan
 - lakukan yang terbaik yang bisa anda lakukan
 - jangan pernah berhenti untuk hal yang anda yakini
