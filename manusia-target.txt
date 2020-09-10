@@ -1,3 +1,4 @@
 TARGET MANUSIA
 
 - keliling dunia
+- Keliling bumi
