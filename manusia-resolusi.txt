@@ -2,6 +2,7 @@ MANUSIA RESOLUSI
 - Konsisten untuk belajar hal yang disukai
 - interview
 -vue
+-react
 -laravel
 -python
 - aktif di forum yang dapat meningkatkan kemampuan dan pengetahuan
